@@ -1,4 +1,4 @@
 # llmopt
-Built an interactive LLM Optimization Lab (quantization, KV cache, hallucination, MoE) — looking for feedback
-Please visit [LLM Optimzation Techniques](llmoptimization.netlify.app)
+Built an interactive LLM Optimization Lab (quantization, KV cache, hallucination, MoE) — looking for feedback.
+Please visit [LLM Optimzation Techniques](https://llmoptimization.netlify.app).
 Reddit doesn't let me post this link for some reason.
